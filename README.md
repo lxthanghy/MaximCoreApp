@@ -1,0 +1,2 @@
+# MaximCoreApp
+ASP.NET Core
